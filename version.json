@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4",
+  "versionCode": 7,
+  "versionName": "1.4.1",
   "apk": "https://raw.githubusercontent.com/ManuHierosolymitanum/second-bin/main/second-bin.apk",
-  "notes": "מסך הגדרות חדש: לבחור על מה שומרים עותק (הכול, מה שצולם בטלפון, צילומי מסך, בלי וואטסאפ, או תיקיות לבחירה).\nהגדרות דומות לסל השני."
+  "notes": "תיקון לעדכון מתוך האפליקציה.\nמסך הגדרות חדש לעותקים ולסל השני."
 }
