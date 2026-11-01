@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.3",
+  "versionCode": 6,
+  "versionName": "1.4",
   "apk": "https://raw.githubusercontent.com/ManuHierosolymitanum/second-bin/main/second-bin.apk",
-  "notes": "כפתור רענון עם סמל רענון שמסתובב.\nבכניסה לאפליקציה מופיעה תזכורת לבדוק עדכונים."
+  "notes": "מסך הגדרות חדש: לבחור על מה שומרים עותק (הכול, מה שצולם בטלפון, צילומי מסך, בלי וואטסאפ, או תיקיות לבחירה).\nהגדרות דומות לסל השני."
 }
