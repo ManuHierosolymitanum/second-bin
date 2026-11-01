@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.1",
+  "versionCode": 8,
+  "versionName": "1.5",
   "apk": "https://raw.githubusercontent.com/ManuHierosolymitanum/second-bin/main/second-bin.apk",
-  "notes": "תיקון לעדכון מתוך האפליקציה.\nמסך הגדרות חדש לעותקים ולסל השני."
+  "notes": "בחירה בעצמי של תמונות מהגלריה, וזמן שמירה מותאם בסל השני (דקות, שעות, ימים, שנים)"
 }
