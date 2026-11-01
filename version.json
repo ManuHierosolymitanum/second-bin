@@ -1,0 +1,6 @@
+{
+  "versionCode": 4,
+  "versionName": "1.2.1",
+  "apk": "https://raw.githubusercontent.com/ManuHierosolymitanum/second-bin/main/second-bin.apk",
+  "notes": "כפתור רענון ועדכונים אוטומטיים.\nהעותקים נשארים גם אם מוחקים את האפליקציה (עם גישה לכל הקבצים)."
+}
